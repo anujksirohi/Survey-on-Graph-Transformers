@@ -2,7 +2,7 @@
 
 Graph Transformers bring the power of Transformer architectures to graph-structured data, enabling advanced processing and analysis of complex networks. By leveraging the self-attention mechanism, Graph Transformers effectively capture long-range dependencies and intricate relationships between nodes, regardless of their distance within the graph. This approach overcomes the limitations of traditional graph neural networks, offering improved scalability and expressiveness.
 
-In this repository, you'll find links to important which help you in exploring and utilizing Graph Transformers for tasks such as node classification, link prediction, and graph classification. Dive in to discover how Graph Transformers can enhance your graph-based machine learning projects. I will try to make this list updated. If you found any missed paper, please  do sugest.
+In this repository, you'll find links to important papres which help you in exploring and utilizing Graph Transformers for tasks such as node classification, link prediction, and graph classification. Dive in to discover how Graph Transformers can enhance your graph-based machine learning projects. I will try to make this list updated. If you found any missed paper, please  do sugest.
 
 
 
