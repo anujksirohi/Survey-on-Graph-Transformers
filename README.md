@@ -1,6 +1,6 @@
 ## Graph Transformers
 
-This repository contains a list of papers on the Graph Transformers; we categorize them based on their detailed techniques. I will try to make this list updated. If you found any missed paper, please don't do suugest.
+This repository contains a list of papers on the Graph Transformers; we categorize them based on their detailed techniques. I will try to make this list updated. If you found any missed paper, please  do sugest.
 
 ### Survey
 1. Transformer for Graphs: An Overview from Architecture Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
