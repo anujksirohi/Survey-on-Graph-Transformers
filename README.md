@@ -1,8 +1,11 @@
-## awesome-graph-transformer
+## Graph Transformers
 
-This repository contains a list of papers on the Graph Transformers; we categorize them based on their detailed techniques.
+This repository contains a list of papers on the Graph Transformers; we categorize them based on their detailed techniques. I will try to make this list updated. If you found any missed paper, please don't do suugest.
 
-We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
+### Survey
+1. Transformer for Graphs: An Overview from Architecture Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
+1. A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2209.13232)
+1. Attending to Graph Transformers. arXiv 2022. [[paper]](https://arxiv.org/abs/2302.04181)
 
 ### Structural Encoding / Postional Encoding for Graph Transformers
 #### Spectral Positional Encoding
@@ -100,10 +103,6 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Pre-training Graph Transformer with Multimodal Side Information for Recommendation. MM 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475709)
 1. Graph Masked Autoencoders with Transformers. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08391)
 
-### Survey
-1. Transformer for Graphs: An Overview from Architecture Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
-1. A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2209.13232)
-1. Attending to Graph Transformers. arXiv 2022. [[paper]](https://arxiv.org/abs/2302.04181)
 
 ### Neural Architecture Search (NAS) for Graph Transformers
 1. AutoGT: Automated Graph Transformer Architecture Search. ICLR 2023. [[paper]](https://openreview.net/forum?id=GcM7qfl5zY)
