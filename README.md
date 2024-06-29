@@ -4,7 +4,7 @@ Graph Transformers bring the power of Transformer architectures to graph-structu
 
 In this repository, you'll find links to important papres which help you in exploring and utilizing Graph Transformers for tasks such as node classification, link prediction, and graph classification. Dive in to discover how Graph Transformers can enhance your graph-based machine learning projects. I will try to make this list updated. If you found any missed paper, please  do sugest.
 
-
+<p align="justify"> In this repository, you'll find links to important papres which help you in exploring and utilizing Graph Transformers for tasks such as node classification, link prediction, and graph classification. Dive in to discover how Graph Transformers can enhance your graph-based machine learning projects. I will try to make this list updated. If you found any missed paper, please  do sugest.</p>
 
 ### Survey
 1. Transformer for Graphs: An Overview from Architecture Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
