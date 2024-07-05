@@ -17,6 +17,7 @@
 1. Transformers Meet Directed Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3618855)
 
 #### Other Structure-aware Encoding
+1. Graph Transformer Networks. NeurIPS 2019. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf)
 1. Do Transformers Really Perform Bad for Graph Representation? NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.05234)
 1. Graph Neural Networks with Learnable Structural and Positional Representations. ICLR 2022. [[paper]](https://arxiv.org/abs/2110.07875)
 1. GRPE: Relative Positional Encoding for Graph Transformer. ICLR 2022 Workshop MLDD [[paper]](https://openreview.net/forum?id=GNfAFN_p1d)
