@@ -49,6 +49,7 @@
 1. NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs. ICLR 2023. [[paper]](https://openreview.net/forum?id=8KYeilT3Ow)
 1. Hierarchical Transformer for Scalable Graph Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0523.pdf)
 1. LPFormer: An Adaptive Graph Transformer for Link Prediction. Arxiv 2024. [[paper]](https://arxiv.org/abs/2310.11009)
+1. Less is More: on the Over-Globalizing Problem in Graph Transformers. ICML 2024 [[paper]](https://openreview.net/pdf?id=uKmcyyrZae)
 
 #### Transformers with Adapted Attention
 1. From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers. ICML 2022. [[paper]](https://arxiv.org/abs/2107.07999)
